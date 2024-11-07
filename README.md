@@ -18,7 +18,7 @@ A simple React application for converting currencies with real-time exchange rat
 1. Clone the repository:
 
    ```bash
-   https://github.com/panderonak/currency-converter.git
+   git clone  https://github.com/panderonak/currency-converter.git
 
    ```
 
