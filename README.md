@@ -25,7 +25,7 @@ A simple React application for converting currencies with real-time exchange rat
 2. Navigate to the project directory:
 
    ```bash
-   cd currency-converter-app
+   cd currency-converter
 
    ```
 
